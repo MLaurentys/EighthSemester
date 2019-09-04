@@ -1,0 +1,112 @@
+\documentclass[]{article}
+\usepackage{amsmath}
+\usepackage{bm}
+\usepackage{amssymb}
+
+\title{\vspace{-4.0cm}MAC0444 - List 1}
+\author{Matheus T. de Laurentys, 9793714}
+
+\begin{document}
+	\maketitle
+	\noindent
+	\textbf{Question 1:} For each item, find interpretation that makes alternative false and the others true. \\ 
+	$
+		(a) \forall{x} \forall{y} \forall{z}((P(x, y) \land P(y, z)) \rightarrow P(x, z)) \\
+		(b) \forall{x} \forall{y} (P(x, y) \land P(y, x)) \rightarrow x = y) \\
+		(c) \forall{x} \forall{y} (P(a, y) \rightarrow P(x, b))
+	$\\ \\
+	\textbf{Answer:}\\
+	(a)\\
+	$
+		\Im = \langle D, I \rangle \\
+		D = \{1, 2, 3\} \\ 
+		I[P] = \{(1, 2), (2, 3)\}\\
+		I[a] = 3\\
+		I[b] = 3\\
+	$
+	(a) is false as $P(1, 2)\land P(2, 3)$ is true but P(1, 3) is false\\
+	(b) is true as it in not possible to exist P(x, y) $\land$ P(y, x) \\
+	(c) is true as there is no y such that P(3, y)\\
+	\\
+	(b)\\
+	$
+		\Im = \langle D, I \rangle \\
+		D = \{1, 2, 3\} \\ 
+		I[P] = \{(1, 1), (1, 2), (2, 1), (2, 2)\}\\
+		I[a] = 3\\
+		I[b] = 3\\
+	$
+	(a) is true as $P(x, y) \land P(y, z) \Rightarrow (x, y, z) = (1, 1, 1) \lor (1, 1, 2) \lor (1, 2, 1) \lor (1, 2, 2) \lor (2, 1, 1) \lor (2, 1, 2) \lor (2, 1, 2) \lor (2, 2, 2)$ and the implication holds for all the cases. \\
+	(b) is false as $P(1, 2) \land P(2, 1) \land 1 \ne 2$ is true\\
+	(c) is true as there is no y such that P(3, y)\\
+		\\
+	(c)\\
+	$
+	\Im = \langle D, I \rangle \\
+	D = \{1, 2, 3\} \\ 
+	I[P] = \{(1, 2), (2, 3)\}\\
+	I[a] = 1\\
+	I[b] = 1\\
+	$
+	(a) is true as $P(x, y) \land P(y, z) \Rightarrow (x, y, z) = (1, 2, 3)$ and the implication holds for this case. \\
+	(b) is true as it in not possible to exist P(x, y) $\land$ P(y, x) \\
+	(c) is false as there is no x such that P(x, 1), but P(1, y) is true if $y = 2$\\
+	\clearpage
+	\noindent
+	\textbf{Question 2:} Tony, Mike and John belong to Club Alpino. Every member of the club that is not a skier, is a climber. Climbers do not like rain and anyone that does not like snow is not a skier. Mike does not enjoy anything that Tony does and enjoys everything that Tony does not. Tony likes the rain and the snow.\\ 
+	(a) Represent the Knowledge Base.\\
+	(b) Prove semantically that there is a member of Club Alpino that is a climber but not a skier. \\
+	(c) Suppose that the phrase "Mike enjoys everything that Tony does not" was omitted. Prove that we cannot infer (b) by giving a counter-example. \\
+	(d) Provide a resolution with answer extraction that shows who is the member who is a climber but not a skier.
+	\\ \\
+	\textbf{Answer:}\\
+	(a)\\
+	D = Tony, Mike, John \\
+	I[t] = Tony \\
+	I[m] = Mike \\
+	I[j] = John \\
+	KB = \\
+	1. Member(t), Member (m), Member(j). \\
+	2. $\forall{x}$(Member(x) $\land \neg$Skier(x) $\Rightarrow$ Climber(x)) \\
+	3. $\forall{x}$(Climber(x) $\Rightarrow \neg$enjRain(x)) \\
+	4. $\forall{x}$($\neg$enjSnow(x) $\Rightarrow \neg$Skier(x)) \\
+	5. enjRain(t) $\Rightarrow \neg$enjRain(m)) \\
+	6. enjRain(m) $\Rightarrow \neg$enjRain(t)) \\
+	7. enjSnow(t) $\Rightarrow \neg$enjSnow(m)) \\
+	8. enjSnow(m) $\Rightarrow \neg$enjSnow(t)) \\
+	9. enjRain(t) \\
+	10. enjSnow(t) \\ 
+	CNF: \\
+	1. Member(t) \\
+	2. Member (m) \\
+	3. Member(j) \\
+	4. $\forall{x}$($\neg$Member(x) $\lor$ Skier(x) $\lor$ Climber(x)) \\
+	5. $\forall{x}$($\neg$Climber(x) $\lor \neg$enjRain(x)) \\
+	6. $\forall{x}$(enjSnow(x) $\lor \neg$Skier(x)) \\
+	7. $\neg$enjRain(t) $\lor \neg$enjRain(m)) \\
+	8. $\neg$enjRain(m) $\lor \neg$enjRain(t)) \\
+	9. $\neg$enjSnow(t) $\lor \neg$enjSnow(m)) \\
+	10. $\neg$enjSnow(m) $\lor \neg$enjSnow(t)) \\
+	11. enjRain(t) \\
+	12. enjSnow(t)
+	\clearpage
+	(b)\\
+	Let $\Im$ an interpretation such that $\Im \models KB$. \\
+	Assuming, by contradiction, that $\nexists x | Member(x) \land \neg Skier(x) \land Climber(x)$ \\
+	Since Tony likes the rain, Mike does not. This way, Mike is not a skier. But if that is the case, we have a contradiction because everyone who is not a skier is a climber, and we established that there isn't a member who is not a skier but is a climber $\square$\\  \\
+	(c) \\
+	Example $\xi$ = Both Tony and John are skiers and climbers at the same time. Mark is a climber but not a skier.\\
+	It is enough to check that the example above is such that $\xi$ satisfies $KB$ (with the omission) and that there are no climbers who are not skiers in the club. (It is enoguh to notice that the omission allows Mark to not enjoy rain at the same time Tony does not enjoy it)\\\\
+	(d) \\
+	I[A(x)] = x \\ 
+	Adding (13.) [$\neg Member(x), Skier(x), \neg Climber(x), A(x)$] to KB\\
+	2. + 13. $\longrightarrow$ 14. [Skier(m), $\neg$ Climber(m), A(m)]\\
+	9. + 12. $\longrightarrow$ 15. [$\neg$engSnow(m)] \\
+	6. + 15. $\longrightarrow$ 16. [$\neg$Skier(m)] \\
+	14. + 16.  $\longrightarrow$ 17. [$\neg$Climber(m), A(m)]\\
+	4. + 16. $\longrightarrow$ 18. [$\neg$Member(m), Climber(m)] \\
+	2. + 18. $\longrightarrow$ 19. [Climber(m)] \\
+	18. + 19. $\longrightarrow$ 20. [A(m)]\\
+	This way, we have A(m), and, with I[A(x)] = x, implying m, with I[m] = Mike, is the answer. This means that Mike is the member who is not a skier but is a climber.
+	\\
+\end{document}
