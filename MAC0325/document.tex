@@ -1,0 +1,39 @@
+\documentclass[]{article}
+\usepackage{amsmath}
+\usepackage{bm}
+\usepackage{amssymb}
+
+\title{\vspace{-4.0cm}MAC0444 - List 1}
+\author{Matheus T. de Laurentys, 9793714}
+
+\begin{document}
+	\maketitle
+	\noindent
+	\textbf{Question 4:} Express the following expressions with a set of linear equations. \\ \\
+	\textbf{(A)} $z = x \land y$ (AND) \\
+		\begin{equation*}
+			\hspace{-8cm} \begin{cases}
+				\hspace{-0.3cm}	&z - x \le 0 \\ \newline
+				\hspace{-0.3cm}	&z - y \le 0
+			\end{cases}
+		\end{equation*}
+	\textbf{(B)} $z = x \lor y$ (OR) \\
+		\begin{equation*}
+			\hspace{-7.3cm} \begin{cases}
+				\hspace{-0.3cm}	&x + y - z \ge 0
+			\end{cases}
+		\end{equation*}
+	\textbf{(C)} $\lnot z = x$ (NOT) \\
+		\begin{equation*}
+			\hspace{-7.8cm} \begin{cases}
+				\hspace{-0.3cm}	&z + x = 0
+			\end{cases}
+		\end{equation*}
+	\textbf{(D)} $z = x \oplus y$ (EXCLUSIVE-OR) \\
+		\begin{equation*}
+			\hspace{-7.8cm} \begin{cases}
+				\hspace{-0.3cm}	&z - x \le 0 \\ \newline
+				\hspace{-0.3cm}	&z - y \le 0
+			\end{cases}
+		\end{equation*}
+\end{document}
