@@ -1,0 +1,40 @@
+\documentclass[]{article}
+\usepackage{amsmath}
+\usepackage{bm}
+\usepackage{amssymb}
+
+\title{\vspace{-4.0cm}MAC0344 - Lista 3}
+\author{Matheus T. de Laurentys, 9793714}
+
+\begin{document}
+	\maketitle
+	\noindent
+	\textbf{Q 1:} As dependências são:
+	\begin{description}
+		\item Dependências Verdadeiras:
+			\begin{description}
+			\item 1 $\rightarrow^{v}$ 3
+			\item 2 $\rightarrow^{v}$ 3
+			\item 4 $\rightarrow^{v}$ 5 
+		\end{description}
+			\item Dependências de saída:
+		\begin{description}
+			\item 2 $\rightarrow^{saida}$ 4
+		\end{description}
+			\item Anti-Dependências:
+		\begin{description}
+			\item 1 $\rightarrow^{anti}$ 2
+			\item 1 $\rightarrow^{anti}$ 4
+			\item 3 $\rightarrow^{anti}$ 4
+		\end{description}
+	\end{description} 	
+	\textbf{Q 2:} 
+	\begin{enumerate}
+		\item $B_1 = B$
+		\item $A = B_1 + 2$
+		\item $B_2 = C$ 
+		\item $E = A + B_2$
+		\item $B = 0$
+		\item $F = B + 1$
+	\end{enumerate}
+\end{document}
