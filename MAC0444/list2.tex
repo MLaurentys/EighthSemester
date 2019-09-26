@@ -1,0 +1,39 @@
+\documentclass[]{article}
+\usepackage{amsmath}
+\usepackage{bm}
+\usepackage{amssymb}
+
+\title{\vspace{-4.0cm}MAC0444 - List 2}
+\author{Matheus T. de Laurentys, 9793714}
+\begin{document}
+	\maketitle
+	\noindent
+	\textbf{Q 1:} Dados os seguintes predicados:\\
+	$fezEx(x) \rightarrow vaiBem(x)$\\
+	$vaiBem(x) \rightarrow mediaAlta(x)$\\
+	$mediaAlta(x) \rightarrow aprovado(x)$\\
+	$fezEx(Joao)$\\
+	$vaiBem(Maria)$\\
+	Primeiro passá-los para cláusulas de Horn: \\
+	\begin{enumerate}
+		\item $\lnot fezEx(x) \lor vaiBem(x)$
+		\item $\lnot vaiBem(x) \lor mediaAlta(x)$
+		\item $\lnot mediaAlta(x) \lor aprovado(x)$
+		\item $fezEx(Joao)$
+		\item $vaiBem(Maria)$\\
+	\end{enumerate}
+	Vou adicionar a cláusula:\\
+	$\cdots$ 6. $\lnot aprovado(Joao) \lor \lnot aprovado(Maria)$\\\\
+	Todas as cláusula são de Horn. Podemos resolver usando SLD:\\\\
+	\begin{tabular} {ll}
+	(substituindo $x$ por João em 3:) &7. (6 + 3) $\lnot mediaAlta(Joao) \lor \lnot aprovado(Maria)$\\
+	(substituindo $x$ por Maria em 3:) &8. (7 + 3) $\lnot mediaAlta(Joao) \lor \lnot mediaAlta(Maria)$\\
+	(substituindo $x$ por João em 2:) &9. (8 + 2) $\lnot vaiBem(Joao) \lor \lnot mediaAlta(Maria)$\\
+	(substituindo $x$ por Maria em 2:) &10. (9 + 2) $\lnot vaiBem(Joao) \lor \lnot vaiBem(Maria)$\\
+	&11. (10 + 5) $\lnot vaiBem(Joao)$\\
+	(substituindo $x$ por João em 1:) &12. (11 + 1) $\lnot fezEx(Joao)$\\
+	&13. (12 + 4) false\\\\
+	\end{tabular}
+	Mostrado que ambos João e Maria foram aprovados.\\\\
+	
+\end{document}
