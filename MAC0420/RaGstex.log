@@ -1,0 +1,1292 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.11.30)  30 NOV 2019 20:53
+entering extended mode
+**./RaGstex.tex
+(RaGstex.tex
+LaTeX2e <2018-12-01>
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.
+cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.c
+lo"
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel
+.sty"
+Package: babel 2019/07/19 3.33 The Babel package
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switc
+h.def"
+File: switch.def 2019/07/19 3.33 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts
+.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english
+\english.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel
+.def"
+File: babel.def 2019/07/19 3.33 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtba
+bel.def")
+\bbl@dirlevel=\count89
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc
+.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\utf8x.def
+"
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\ucs.sty"
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\uni-globa
+l.def"
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count90
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.
+sty"
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.de
+f"
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/wrapfig\wrapf
+ig.sty"
+\wrapoverhang=\dimen104
+\WF@size=\dimen105
+\c@WF@wrappedlines=\count91
+\WF@box=\box27
+\WF@everypar=\toks19
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\subca
+ption.sty"
+Package: subcaption 2019/09/01 v1.3a Sub-captions (AR)
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\capti
+on.sty"
+Package: caption 2019/10/18 v3.4a Customizing captions (AR)
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\capti
+on3.sty"
+Package: caption3 2019/09/09 v1.8e caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyv
+al.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+\captionmargin=\dimen106
+\captionmargin@=\dimen107
+\captionwidth=\dimen108
+\caption@tempdima=\dimen109
+\caption@indent=\dimen110
+\caption@parindent=\dimen111
+\caption@hangindent=\dimen112
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count92
+\c@continuedfloat=\count93
+Package caption Info: wrapfig package is loaded.
+)
+\c@subfigure=\count94
+\c@subtable=\count95
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\grap
+hics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig
+.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\
+graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\
+pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\book
+tabs.sty"
+Package: booktabs 2019/10/08 v1.6180339 publication quality tables
+\heavyrulewidth=\dimen113
+\lightrulewidth=\dimen114
+\cmidrulewidth=\dimen115
+\belowrulesep=\dimen116
+\belowbottomsep=\dimen117
+\aboverulesep=\dimen118
+\abovetopsep=\dimen119
+\cmidrulesep=\dimen120
+\cmidrulekern=\dimen121
+\defaultaddspace=\dimen122
+\@cmidla=\count96
+\@cmidlb=\count97
+\@aboverulesep=\dimen123
+\@belowrulesep=\dimen124
+\@thisruleclass=\count98
+\@lastruleclass=\count99
+\@thisrulewidth=\dimen125
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\mult
+irow.sty"
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip43
+\multirow@cntb=\count100
+\multirow@dima=\skip44
+\bigstrutjot=\dimen126
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor
+.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\
+color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/colortbl\colo
+rtbl.sty"
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.s
+ty"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen127
+\ar@mcellbox=\box28
+\extrarowheight=\dimen128
+\NC@list=\toks21
+\extratabsurround=\skip45
+\backup@length=\skip46
+\ar@cellbox=\box29
+)
+\everycr=\toks22
+\minrowclearance=\skip47
+)
+\rownum=\count101
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsma
+th.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip48
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amste
+xt.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsge
+n.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks23
+\ex@=\dimen129
+))
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbs
+y.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen130
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsop
+n.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count102
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count103
+\leftroot@=\count104
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count105
+\DOTSCASE@=\count106
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box30
+\strutbox@=\box31
+\big@size=\dimen131
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count107
+\c@MaxMatrixCols=\count108
+\dotsspace@=\muskip10
+\c@parentequation=\count109
+\dspbrk@lvl=\count110
+\tag@help=\toks24
+\row@=\count111
+\column@=\count112
+\maxfields@=\count113
+\andhelp@=\toks25
+\eqnshift@=\dimen132
+\alignsep@=\dimen133
+\tagshift@=\dimen134
+\tagwidth@=\dimen135
+\totwidth@=\dimen136
+\lineht@=\dimen137
+\@envbody=\toks26
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm
+.sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks28
+\thm@bodyfont=\toks29
+\thm@headfont=\toks30
+\thm@notefont=\toks31
+\thm@headpunct=\toks32
+\thm@preskip=\skip51
+\thm@postskip=\skip52
+\thm@headsep=\skip53
+\dth@everypar=\toks33
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsf
+onts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/moderncv\twea
+klist.sty"
+
+! LaTeX Error: Command \description already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56   {\endlist}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/blindtext\bli
+ndtext.sty"
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\xspace.
+sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count114
+\c@Blindtext=\count115
+\c@blind@countparstart=\count116
+\blind@countxx=\count117
+\blindtext@numBlindtext=\count118
+\blind@countyy=\count119
+\c@blindlist=\count120
+\c@blindlistlevel=\count121
+\c@blindlist@level=\count122
+\blind@listitem=\count123
+\c@blind@listcount=\count124
+\c@blind@levelcount=\count125
+\blind@mathformula=\count126
+\blind@Mathformula=\count127
+\c@blind@randomcount=\count128
+\c@blind@randommax=\count129
+\c@blind@pangramcount=\count130
+\c@blind@pangrammax=\count131
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mat
+htools.sty"
+Package: mathtools 2019/07/31 v1.22 mathematical typesetting tools
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.st
+y"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count132
+\calc@Bcount=\count133
+\calc@Adimen=\dimen138
+\calc@Bdimen=\dimen139
+\calc@Askip=\skip54
+\calc@Bskip=\skip55
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count134
+\calc@Cskip=\skip56
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mhs
+etup.sty"
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count135
+\l_MT_multwidth_dim=\dimen140
+\origjot=\skip57
+\l_MT_shortvdotswithinadjustabove_dim=\dimen141
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen142
+\l_MT_above_intertext_sep=\dimen143
+\l_MT_below_intertext_sep=\dimen144
+\l_MT_above_shortintertext_sep=\dimen145
+\l_MT_below_shortintertext_sep=\dimen146
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\grap
+hicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen147
+\Gin@req@width=\dimen148
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/todonotes\tod
+onotes.sty"
+Package: todonotes 2019/01/24 v1.1.2 Todonotes source and documentation.
+Package: todonotes 2018/11/22
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.s
+ty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyv
+al.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xke
+yval.tex"
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkv
+utils.tex"
+\XKV@toks=\toks34
+\XKV@tempa@toks=\toks35
+)
+\XKV@depth=\count136
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontendl
+ayer\tikz.sty"
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclaye
+r\pgf.sty"
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities
+\pgfrcs.sty"
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utiliti
+es\pgfutil-common.tex"
+\pgfutil@everybye=\toks36
+\pgfutil@tempdima=\dimen149
+\pgfutil@tempdimb=\dimen150
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utiliti
+es\pgfutil-common-lists.tex"))
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utiliti
+es\pgfutil-latex.def"
+\pgfutil@abb=\box32
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.s
+ty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utiliti
+es\pgfrcs.code.tex"
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.rev
+ision.tex")
+Package: pgfrcs 2019/08/03 v3.1.4b (3.1.4b)
+))
+Package: pgf 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclaye
+r\pgfcore.sty"
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/systemlay
+er\pgfsys.sty"
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systeml
+ayer\pgfsys.code.tex"
+Package: pgfsys 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utiliti
+es\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks37
+\pgfkeys@temptoks=\toks38
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utiliti
+es\pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks39
+))
+\pgf@x=\dimen151
+\pgf@y=\dimen152
+\pgf@xa=\dimen153
+\pgf@ya=\dimen154
+\pgf@xb=\dimen155
+\pgf@yb=\dimen156
+\pgf@xc=\dimen157
+\pgf@yc=\dimen158
+\pgf@xd=\dimen159
+\pgf@yd=\dimen160
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count137
+\c@pgf@countb=\count138
+\c@pgf@countc=\count139
+\c@pgf@countd=\count140
+\t@pgf@toka=\toks40
+\t@pgf@tokb=\toks41
+\t@pgf@tokc=\toks42
+\pgf@sys@id@count=\count141
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systeml
+ayer\pgf.cfg"
+File: pgf.cfg 2019/08/03 v3.1.4b (3.1.4b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systeml
+ayer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systeml
+ayer\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2019/08/03 v3.1.4b (3.1.4b)
+)))
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systeml
+ayer\pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfsyssoftpath@smallbuffer@items=\count142
+\pgfsyssoftpath@bigbuffer@items=\count143
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systeml
+ayer\pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+))
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicla
+yer\pgfcore.code.tex"
+Package: pgfcore 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pg
+fmath.code.tex"
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pg
+fmathcalc.code.tex"
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pg
+fmathutil.code.tex")
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pg
+fmathparser.code.tex"
+\pgfmath@dimen=\dimen161
+\pgfmath@count=\count144
+\pgfmath@box=\box33
+\pgfmath@toks=\toks43
+\pgfmath@stack@operand=\toks44
+\pgfmath@stack@operation=\toks45
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pg
+fmathfunctions.code.tex"
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pg
+fmathfunctions.basic.code.tex")
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pg
+fmathfunctions.trigonometric.code.tex")
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pg
+fmathfunctions.random.code.tex")
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pg
+fmathfunctions.comparison.code.tex")
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pg
+fmathfunctions.base.code.tex")
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pg
+fmathfunctions.round.code.tex")
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pg
+fmathfunctions.misc.code.tex")
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pg
+fmathfunctions.integerarithmetics.code.tex")))
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pg
+fmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count145
+))
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pg
+fint.code.tex")
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicla
+yer\pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@picminx=\dimen162
+\pgf@picmaxx=\dimen163
+\pgf@picminy=\dimen164
+\pgf@picmaxy=\dimen165
+\pgf@pathminx=\dimen166
+\pgf@pathmaxx=\dimen167
+\pgf@pathminy=\dimen168
+\pgf@pathmaxy=\dimen169
+\pgf@xx=\dimen170
+\pgf@xy=\dimen171
+\pgf@yx=\dimen172
+\pgf@yy=\dimen173
+\pgf@zx=\dimen174
+\pgf@zy=\dimen175
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicla
+yer\pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@path@lastx=\dimen176
+\pgf@path@lasty=\dimen177
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicla
+yer\pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@shorten@end@additional=\dimen178
+\pgf@shorten@start@additional=\dimen179
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicla
+yer\pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfpic=\box34
+\pgf@hbox=\box35
+\pgf@layerbox@main=\box36
+\pgf@picture@serial@count=\count146
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicla
+yer\pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgflinewidth=\dimen180
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicla
+yer\pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@pt@x=\dimen181
+\pgf@pt@y=\dimen182
+\pgf@pt@temp=\dimen183
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicla
+yer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicla
+yer\pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicla
+yer\pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicla
+yer\pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfarrowsep=\dimen184
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicla
+yer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@max=\dimen185
+\pgf@sys@shading@range@num=\count147
+\pgf@shadingcount=\count148
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicla
+yer\pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicla
+yer\pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfexternal@startupbox=\box37
+))
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicla
+yer\pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicla
+yer\pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicla
+yer\pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicla
+yer\pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)))
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules
+\pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfnodeparttextbox=\box38
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules
+\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibi
+lity\pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@nodesepstart=\dimen186
+\pgf@nodesepend=\dimen187
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibi
+lity\pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2019/08/03 v3.1.4b (3.1.4b)
+))
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities
+\pgffor.sty"
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities
+\pgfkeys.sty"
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utiliti
+es\pgfkeys.code.tex"))
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\pgfm
+ath.sty"
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pg
+fmath.code.tex"))
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utiliti
+es\pgffor.code.tex"
+Package: pgffor 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pg
+fmath.code.tex")
+\pgffor@iter=\dimen188
+\pgffor@skip=\dimen189
+\pgffor@stack=\toks46
+\pgffor@toks=\toks47
+))
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fronten
+dlayer/tikz\tikz.code.tex"
+Package: tikz 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/librari
+es\pgflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@plot@mark@count=\count149
+\pgfplotmarksize=\dimen190
+)
+\tikz@lastx=\dimen191
+\tikz@lasty=\dimen192
+\tikz@lastxsaved=\dimen193
+\tikz@lastysaved=\dimen194
+\tikz@lastmovetox=\dimen195
+\tikz@lastmovetoy=\dimen196
+\tikzleveldistance=\dimen197
+\tikzsiblingdistance=\dimen198
+\tikz@figbox=\box39
+\tikz@figbox@bg=\box40
+\tikz@tempbox=\box41
+\tikz@tempbox@bg=\box42
+\tikztreelevel=\count150
+\tikznumberofchildren=\count151
+\tikznumberofcurrentchild=\count152
+\tikz@fig@count=\count153
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules
+\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfmatrixcurrentrow=\count154
+\pgfmatrixcurrentcolumn=\count155
+\pgf@matrix@numberofcolumns=\count156
+)
+\tikz@expandcount=\count157
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fronten
+dlayer/tikz/libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)))
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fronten
+dlayer/tikz/libraries\tikzlibrarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fronten
+dlayer/tikz/libraries\tikzlibraryshadows.code.tex"
+File: tikzlibraryshadows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fronten
+dlayer/tikz/libraries\tikzlibraryfadings.code.tex"
+File: tikzlibraryfadings.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/librari
+es\pgflibraryfadings.code.tex"
+File: pgflibraryfadings.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)))
+\c@@todonotes@numberoftodonotes=\count158
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hype
+rref.sty"
+Package: hyperref 2019/06/12 v6.88h Hypertext links for LaTeX
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ho
+bsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ho
+bsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifx
+etex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxh
+ook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvop
+tions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen199
+\Hy@linkcounter=\count159
+\Hy@pagecounter=\count160
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1e
+nc.def"
+File: pd1enc.def 2019/06/12 v6.88h Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count161
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hype
+rref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4424.
+Package hyperref Info: Hyper figures OFF on input line 4550.
+Package hyperref Info: Link nesting OFF on input line 4555.
+Package hyperref Info: Hyper index ON on input line 4558.
+Package hyperref Info: Plain pages OFF on input line 4565.
+Package hyperref Info: Backreferencing OFF on input line 4570.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4803.
+\c@Hy@tempcnt=\count162
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5156.
+\XeTeXLinkMargin=\dimen256
+\Fld@menulength=\count163
+\Field@Width=\dimen257
+\Fld@charsize=\dimen258
+Package hyperref Info: Hyper figures OFF on input line 6411.
+Package hyperref Info: Link nesting OFF on input line 6416.
+Package hyperref Info: Hyper index ON on input line 6419.
+Package hyperref Info: backreferencing OFF on input line 6426.
+Package hyperref Info: Link coloring ON on input line 6429.
+Package hyperref Info: Link coloring with OCG OFF on input line 6436.
+Package hyperref Info: PDF/A mode OFF on input line 6441.
+LaTeX Info: Redefining \ref on input line 6481.
+LaTeX Info: Redefining \pageref on input line 6485.
+\Hy@abspage=\count164
+\c@Item=\count165
+\c@Hfootnote=\count166
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdf
+tex.def"
+File: hpdftex.def 2019/06/12 v6.88h Hyperref driver for pdfTeX
+\Fld@listcount=\count167
+\c@bookmark@seq@number=\count168
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\reru
+nfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip58
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/xecjk\xeCJK
+.sty"
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl
+3.sty"
+Package: expl3 2019-11-07 L3 programming layer (loader) 
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl
+3-code.tex"
+Package: expl3 2019-11-07 L3 programming layer (code)
+\c_max_int=\count169
+\l_tmpa_int=\count170
+\l_tmpb_int=\count171
+\g_tmpa_int=\count172
+\g_tmpb_int=\count173
+\l__seq_internal_a_int=\count174
+\l__seq_internal_b_int=\count175
+\g__kernel_prg_map_int=\count176
+\c__ior_term_noprompt_ior=\count177
+\c_log_iow=\count178
+\l_iow_line_count_int=\count179
+\l__iow_line_target_int=\count180
+\l__iow_one_indent_int=\count181
+\l__iow_indent_int=\count182
+\c_zero_dim=\dimen259
+\c_max_dim=\dimen260
+\l_tmpa_dim=\dimen261
+\l_tmpb_dim=\dimen262
+\g_tmpa_dim=\dimen263
+\g_tmpb_dim=\dimen264
+\c_zero_skip=\skip59
+\c_max_skip=\skip60
+\l_tmpa_skip=\skip61
+\l_tmpb_skip=\skip62
+\g_tmpa_skip=\skip63
+\g_tmpb_skip=\skip64
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+\l_keys_choice_int=\count183
+\l__intarray_loop_int=\count184
+\c__intarray_sp_dim=\dimen265
+\g__intarray_font_int=\count185
+\c__fp_leading_shift_int=\count186
+\c__fp_middle_shift_int=\count187
+\c__fp_trailing_shift_int=\count188
+\c__fp_big_leading_shift_int=\count189
+\c__fp_big_middle_shift_int=\count190
+\c__fp_big_trailing_shift_int=\count191
+\c__fp_Bigg_leading_shift_int=\count192
+\c__fp_Bigg_middle_shift_int=\count193
+\c__fp_Bigg_trailing_shift_int=\count194
+\c__kernel_randint_max_int=\count195
+\g__fp_array_int=\count196
+\l__fp_array_loop_int=\count197
+\l__sort_length_int=\count198
+\l__sort_min_int=\count199
+\l__sort_top_int=\count266
+\l__sort_max_int=\count267
+\l__sort_true_max_int=\count268
+\l__sort_block_int=\count269
+\l__sort_begin_int=\count270
+\l__sort_end_int=\count271
+\l__sort_A_int=\count272
+\l__sort_B_int=\count273
+\l__sort_C_int=\count274
+\l__str_internal_int=\count275
+\c__str_replacement_char_int=\count276
+\l__tl_analysis_normal_int=\count277
+\l__tl_analysis_index_int=\count278
+\l__tl_analysis_nesting_int=\count279
+\l__tl_analysis_type_int=\count280
+\l__regex_internal_a_int=\count281
+\l__regex_internal_b_int=\count282
+\l__regex_internal_c_int=\count283
+\l__regex_balance_int=\count284
+\l__regex_group_level_int=\count285
+\l__regex_mode_int=\count286
+\c__regex_cs_in_class_mode_int=\count287
+\c__regex_cs_mode_int=\count288
+\l__regex_catcodes_int=\count289
+\l__regex_default_catcodes_int=\count290
+\c__regex_catcode_D_int=\count291
+\c__regex_catcode_S_int=\count292
+\c__regex_catcode_L_int=\count293
+\c__regex_catcode_O_int=\count294
+\c__regex_catcode_A_int=\count295
+\c__regex_all_catcodes_int=\count296
+\l__regex_show_lines_int=\count297
+\l__regex_min_state_int=\count298
+\l__regex_max_state_int=\count299
+\l__regex_left_state_int=\count300
+\l__regex_right_state_int=\count301
+\l__regex_capturing_group_int=\count302
+\l__regex_min_pos_int=\count303
+\l__regex_max_pos_int=\count304
+\l__regex_curr_pos_int=\count305
+\l__regex_start_pos_int=\count306
+\l__regex_success_pos_int=\count307
+\l__regex_curr_char_int=\count308
+\l__regex_curr_catcode_int=\count309
+\l__regex_last_char_int=\count310
+\l__regex_case_changed_char_int=\count311
+\l__regex_curr_state_int=\count312
+\l__regex_step_int=\count313
+\l__regex_min_active_int=\count314
+\l__regex_max_active_int=\count315
+\l__regex_replacement_csnames_int=\count316
+\l__regex_match_count_int=\count317
+\l__regex_min_submatch_int=\count318
+\l__regex_submatch_int=\count319
+\l__regex_zeroth_submatch_int=\count320
+\g__regex_trace_regex_int=\count321
+\c_empty_box=\box43
+\l_tmpa_box=\box44
+\l_tmpb_box=\box45
+\g_tmpa_box=\box46
+\g_tmpb_box=\box47
+\l__box_top_dim=\dimen266
+\l__box_bottom_dim=\dimen267
+\l__box_left_dim=\dimen268
+\l__box_right_dim=\dimen269
+\l__box_top_new_dim=\dimen270
+\l__box_bottom_new_dim=\dimen271
+\l__box_left_new_dim=\dimen272
+\l__box_right_new_dim=\dimen273
+\l__box_internal_box=\box48
+\l__coffin_internal_box=\box49
+\l__coffin_internal_dim=\dimen274
+\l__coffin_offset_x_dim=\dimen275
+\l__coffin_offset_y_dim=\dimen276
+\l__coffin_x_dim=\dimen277
+\l__coffin_y_dim=\dimen278
+\l__coffin_x_prime_dim=\dimen279
+\l__coffin_y_prime_dim=\dimen280
+\c_empty_coffin=\box50
+\l__coffin_aligned_coffin=\box51
+\l__coffin_aligned_internal_coffin=\box52
+\l_tmpa_coffin=\box53
+\l_tmpb_coffin=\box54
+\g_tmpa_coffin=\box55
+\g_tmpb_coffin=\box56
+\l__coffin_bounding_shift_dim=\dimen281
+\l__coffin_left_corner_dim=\dimen282
+\l__coffin_right_corner_dim=\dimen283
+\l__coffin_bottom_corner_dim=\dimen284
+\l__coffin_top_corner_dim=\dimen285
+\l__coffin_scaled_total_height_dim=\dimen286
+\l__coffin_scaled_width_dim=\dimen287
+\c__coffin_empty_coffin=\box57
+\l__coffin_display_coffin=\box58
+\l__coffin_display_coord_coffin=\box59
+\l__coffin_display_pole_coffin=\box60
+\l__coffin_display_offset_dim=\dimen288
+\l__coffin_display_x_dim=\dimen289
+\l__coffin_display_y_dim=\dimen290
+\g__char_data_ior=\read2
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\l3de
+precation.def"
+File: l3deprecation.def 2019-04-06 v L3 Deprecated functions
+))
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3b
+ackend-pdfmode.def"
+File: l3backend-pdfmode.def 2019-04-06 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count322
+\l__pdf_internal_box=\box61
+))
+Package: xeCJK 2019/06/02 v3.7.4 Typesetting CJK scripts with XeLaTeX
+
+
+! Critical Package xeCJK Error: The xeCJK package requires XeTeX to function.
+(xeCJK)                         
+(xeCJK)                         You must change your typesetting engine to
+(xeCJK)                         "xelatex"
+(xeCJK)                         instead of plain "latex" or "pdflatex" or
+(xeCJK)                         "lualatex".
+(xeCJK)                         Loading xeCJK will abort!
+
+Type <return> to continue.
+ ...                                              
+                                                  
+l.43 ..._critical:nn { xeCJK } { Require-XeTeX } }
+                                                  
+
+LaTeX does not know anything more about this error, sorry.
+
+Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+Reading the current file 'xeCJK' will stop.
+
+
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geom
+etry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+\Gm@cnth=\count323
+\Gm@cntv=\count324
+\c@Gm@tempcnt=\count325
+\Gm@bindingoffset=\dimen291
+\Gm@wd@mp=\dimen292
+\Gm@odd@mp=\dimen293
+\Gm@even@mp=\dimen294
+\Gm@layoutwidth=\dimen295
+\Gm@layoutheight=\dimen296
+\Gm@layouthoffset=\dimen297
+\Gm@layoutvoffset=\dimen298
+\Gm@dimlist=\toks48
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geom
+etry.cfg")) (RaGstex.aux)
+\openout1 = `RaGstex.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\ucsencs.d
+ef"
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\s
+upp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count326
+\scratchdimen=\dimen299
+\scratchbox=\box62
+\nofMPsegments=\count327
+\nofMParguments=\count328
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count329
+\MPscratchDim=\dimen300
+\MPnumerator=\count330
+\makeMPintoPDFobject=\count331
+\everyMPtoPDFconversion=\toks50
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epst
+opdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfe
+xt.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+) ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box63
+Package hyperref Info: Link coloring ON on input line 29.
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\name
+ref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ge
+ttitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count332
+)
+LaTeX Info: Redefining \ref on input line 29.
+LaTeX Info: Redefining \pageref on input line 29.
+LaTeX Info: Redefining \nameref on input line 29.
+\@outlinefile=\write4
+\openout4 = `RaGstex.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(28.45274pt, 483.69687pt, 85.35826pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=56.9055pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \vskip 
+l.34 	
+      
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 34.
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa
+.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 34.
+
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb
+.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\uni-0.def
+"
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
+("C:\Users\MLaurentys\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\uni-32.de
+f"
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+ 
+ []
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 45
+.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 45
+.
+
+
+Overfull \hbox (60.20737pt too wide) detected at line 46
+[]
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 46--46
+ [] 
+ []
+
+[1
+
+{C:/Users/MLaurentys/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 52.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 52.
+
+(RaGstex.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 52.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 52.
+
+
+Package rerunfilecheck Warning: File `RaGstex.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `RaGstex.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 52.
+ ) 
+Here is how much of TeX's memory you used:
+ 30448 strings out of 492895
+ 576331 string characters out of 3121399
+ 636835 words of memory out of 3000000
+ 33954 multiletter control sequences out of 15000+200000
+ 540977 words of font info for 53 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 62i,15n,81p,580b,479s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\MLaurentys\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dp
+i600\ecrm1000.pk> <C:\Users\MLaurentys\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\MLaurentys\AppData\Local\MiKTeX\2.9\
+fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Users/MLaurentys/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/MLau
+rentys/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.
+pfb><C:/Users/MLaurentys/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmmi7.pfb><C:/Users/MLaurentys/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/MLaurentys/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/MLaurentys/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on RaGstex.pdf (1 page, 95680 bytes).
+PDF statistics:
+ 160 PDF objects out of 1000 (max. 8388607)
+ 2 named destinations out of 1000 (max. 500000)
+ 109 words of extra memory for PDF output out of 10000 (max. 10000000)
+
