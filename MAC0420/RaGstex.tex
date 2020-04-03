@@ -1,0 +1,39 @@
+\documentclass[a4paper]{article}
+
+%% Language and font encodings
+\usepackage[english]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphics}
+\usepackage{multirow}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+%% Useful packages
+\usepackage{amsmath}
+\usepackage{graphicx}
+
+\begin{document}
+	\setlength{\leftskip}{20}
+	\title{\vspace {1.0} MAC0420 - EP-3}
+	\author{Matheus T. de Laurentys, 9793714}
+	\maketitle
+	
+	É de extrema importância para representações gráficas o uso de funções de interporlação. Existem muitas técnicas diferentes para fazer isso. Curvas e superfícies racionais gaussianas (RaGs) são geradas por tais funções de forma parecida com as NURBS. NURBS são funções, simplificadamente, que somam médias ponderadas de splines distribuídas pelo espaço. RaGs funcionam analogamente, porém, somam ponderações de funções Gaussianas. 
+	
+	De maneira analoga, novamente, às NURBS, nas quais podem-se controlar a posição dos pontos de controle de cada spline, obtendo-se mais ou menos ’espalhamento’, pode-se modificar a variância de cada função normal, além da curva gerada também nunca ultrapassar os pontos de controle. Essas informações podem ser verificadas na formulação de RaGs abaixo: \\
+	\begin{equation*}\label{eq:pareto mle2}
+	\begin{split}
+	P(u)=& \sum_{i=1}^n V_ig_i(u) \space u\in [0,1] \\
+	g_i(u)=& \frac{W_iG_i(u)}{X_i”= 1 WjGjcU)} \\
+	is the ith basis function of the curve, W, is the weight of
+	the ith control point, and
+	G,(U) = exp{ -(u - Ui)2/20:} 
+	\end{split}
+	\end{equation*}
+	
+	%\newpage
+	% -----------------------------------REFERENCE----------------------------------------
+	% \bibliographystyle{alpha}
+	% \bibliography{sample}
+\end{document}

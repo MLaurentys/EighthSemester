@@ -1,0 +1,38 @@
+A palestra desta semana foi dada por Mariana Marques Rielli e teve o título de Lei Geral de Proteção de Dados (LGPD): Direito e tecnologia como vetores de regulação. Mariana começa com uma retrospectiva do panorama anterior à lei e um histórico de mudanças até a LGPD de fato. Esse momento inicial foi importante para o entedimento da importância do contexto político para a aprovação e velocidade de tramitamento de políticas no Congresso.
+
+As primeiras políticas nessa área existem desde 2010, quando houve uma primeira consulta pública. Nessa época não havia muito conhecimento e as ideis eram, ainda, baseadas em textos europeus. Nota disso é que o processo foi progredindo lentamente através das contribuições de diversos atores, nacionais ou internacionais, até 2014, quando o assunto voltou a tona. Em 2014 o escândalo Snowden deu muita visibilade ao tema e, no ano seguinte, houve uma segunda consulta pública.
+
+Em paralelo, ela nos conta, um projeto de lei foi sendo formulado e amadurecido. Nesse momento o projeto poderia ser colocado a votação, mas, ela explica, não havia interesse político pelo assunto. Essa situação durou mais dois anos, apesar de continuar sendo desenvolvido por autores nacionais e internacionais, até sua promulgação em 2018.
+
+A LGPD se torna uma unificadora e expansora de diversas regulações feitas, inicialmente, para nichos específicos. Mais tecnicamente, a LGPD é aplicável a brasileiros vivendo fora do Brasil e também para dados e processos sendo feitos e adquiridos antes de sua aprovação. Ela então, seguiu, para tratar das características da lei.
+
+A ideia da lei é que o armazenamento, aquisição, venda e tratamento de dados serão muito mais regulados em ambos os setores públicos e privados. Os grupos que são mais isentos das medidas são pessoas físicas sem fins lucrativos, dados para fins jornalísticos, dados para fins acadêmicos e, também, para casos de segurança nacional ou terrorismo.
+
+Para os demais grupos os dados precisam ser adquiridos por algum dos diversos meios que a lei permite. A lei permite a aquisição dos dados mesmo sem consetimento mas ela visa garantir que os dados não venham a ser usados contra a pessoa sem algum motivo muito específico. 
+
+A palestrante discorre por bastante tempo passando pelas diversas formas de se adquirir permissão para a manipulação de dados. Esses são temas que tem muita importância para o entendimento do assunto e a palestra foi um ótimo meio de entender a situação. Mais para o fim da palestra ela passou a repsonder as perguntas.
+
+[conclusao]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

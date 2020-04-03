@@ -1,0 +1,18 @@
+\documentclass[]{article}
+
+\usepackage{circuitikz}
+
+\title{\vspace{-4.0cm}MAC0344 - List 2}
+\author{Matheus T. de Laurentys, 9793714}
+
+\begin{document}
+	
+\begin{circuitikz} \draw
+	(0,2) node[and port] (myand1) {}
+	(0,0) node[and port] (myand2) {}
+	(2,1) node[xnor port] (myxnor) {}
+	(myand1.out) -- (myxnor.in 1)
+	(myand2.out) -- (myxnor.in 2);
+\end{circuitikz}
+
+\end{document}
